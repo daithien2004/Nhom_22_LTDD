@@ -1,3 +1,8 @@
+Thay đổi các thông số sau trong application.properties để test.
+spring.mail.username=daithien2004@gmail.com
+spring.mail.password=${MAIL_PASSWORD}
+
+
 * Đăng ký
 http://localhost:8080/api/register
 {
